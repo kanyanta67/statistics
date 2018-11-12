@@ -1,0 +1,87 @@
+\documentclass{ximera}
+
+\input{preamble}
+
+\outcome{Understand the weighted mean.}
+\outcome{Determine the weighted mean of a given data set.}
+
+\title{Activity for the Weighted Mean Calculation}
+\author{Isaac Mulolani}
+
+\begin{document}
+
+\begin{abstract}
+This is an activity for the weighted mean calculation.
+\end{abstract}
+
+\maketitle
+
+\section*{Weighted Mean}
+
+When we calculate a mean, we may be making a serious mistake if we overlook the fact that the quantities we are averaging are not all
+of equal importance with reference to the situation being described. Consider, for example, a cruise line that advertises the following fares
+for single-occupancy cabins on an $11$-day Caribbean cruise:
+
+\[
+\begin{tabular}{ll}\hline
+\textbf{Cabin}                        &              \\
+\textbf{category}                     & \textbf{Fare} \\ \hline
+\parbox{6cm}{Ultra deluxe\\outside}   & $\$7,870$  \\
+\parbox{6cm}{Deluxe\\outside}         & $\$7,080$  \\
+\parbox{6cm}{Outside}                 & $\$5,470$  \\
+\parbox{6cm}{Outside\\shower only}    & $\$4,250$  \\
+\parbox{6cm}{Inside\\shower only}     & $\$3,460$  \\ \hline
+\end{tabular}
+\]
+
+The arithmetic mean of these five fares is
+\begin{align*}
+\overline{X} &=\dfrac{7,870+7,080+5,470+4,250+3,460}{5}\\
+&=\$5,626
+\end{align*}
+But we cannot very well say that the average fare for one of these single-occupancy cabins is \$5,626. To get the fare, we would also have to know how many cabins there are in each of the categories. Referring to the ship's deck plan where the cabins are color-coded by category, we find that there are,
+respectively, $6$, $4$, $8$, $13$ and $22$ cabins available in these five categories. If it can be assumed that these $53$ cabins will all be occupied, the cruise line can expect to receive a total of
+$$
+6(7,870)+4(7,080)+8(5,470)+13(4,250)+22(3,460)=\$ 250,670
+$$
+for the $53$ cabins and hence, on the average $\dfrac{250,670}{53}\approx \$4,729.62$ per cabin.
+
+To give quantities being averaged their proper degree of importance, it is necessary to assign them (relative importance) \textbf{weights} and then calculate a
+\textbf{weighted mean}. In general, the weighted mean $\overline{x}_w$ of a set of numbers $x_1$, $x_2$, $x_3$, $\ldots$, $x_n$ whose relative importance is expressed numerically by a corresponding set of numbers $w_1, w_2, w_3,\ldots, w_n$ is given by
+
+$$
+\overline{x}_w=\dfrac{w_1x_1+w_2x_2+w_3x_3+\ldots+w_nx_n}{w_1+w_2+w_3+\ldots+w_n}=\dfrac{\sum w\cdot x}{\sum w}
+$$
+
+Here $\sum w\cdot x$ is the sum of the products obtained by multiplying each $x$ by the corresponding weight and $\sum w$ is simply the sum of the weights. Note that when the weights are all equal, the formula for the weighted mean reduces to that for the ordinary (arithmetic) mean.
+
+\begin{question}
+
+
+
+\end{question}
+
+
+\begin{question}
+
+
+
+\end{question}
+
+
+\begin{question}
+
+
+
+\end{question}
+
+
+\begin{question}
+
+
+
+\end{question}
+
+\end{document}
+
+
