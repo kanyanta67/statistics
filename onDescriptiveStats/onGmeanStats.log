@@ -1,12 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.27)  11 NOV 2018 21:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.27)  11 NOV 2018 21:37
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**onMeanStats.tex
-(./onMeanStats.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.cls
+**\PassOptionsToClass{tikzexport}{ximera}\PassOptionsToClass{xake}{ximera}\Pass
+OptionsToClass{xake}{xourse}\nonstopmode\input{onGmeanStats.tex}
+(./onGmeanStats.tex (/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.cls
 Document Class: ximera 2018/10/17 v1.00 Simultaneously write print and online i
 nteractive materials
 
@@ -769,6 +768,13 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/libraries/tikzlibrar
+yexternal.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zexternalshared.code.tex))
+\openout3 = `onGmeanStats.auxlock'.
+
+
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
@@ -867,7 +873,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip61
 )
 \outcomefile=\write6
-\openout6 = `onMeanStats.oc'.
+\openout6 = `onGmeanStats.oc'.
 
 \c@theorem=\count159
 \c@algorithm=\count160
@@ -901,112 +907,33 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \c@titlenumber=\count188
 \c@sectiontitlenumber=\count189
 \idfile=\write7
-\openout7 = `onMeanStats.ids'.
+\openout7 = `onGmeanStats.ids'.
 
 \myfile=\write8
-\openout8 = `onMeanStats.jax'.
+\openout8 = `onGmeanStats.jax'.
 
 )
-(./onMeanStats.aux)
-\openout1 = `onMeanStats.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+! LaTeX Error: File `preamble.tex' not found.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count190
-\scratchdimen=\dimen193
-\scratchbox=\box45
-\nofMPsegments=\count191
-\nofMParguments=\count192
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count193
-\MPscratchDim=\dimen194
-\MPnumerator=\count194
-\makeMPintoPDFobject=\count195
-\everyMPtoPDFconversion=\toks54
-) ABD: EveryShipout initializing macros
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
 
-Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.15} into 
-your preamble.
- on input line 11.
+Enter file name: 
+./onGmeanStats.tex:3: Emergency stop.
+<read *> 
+         
+l.3 \input{preamble}
+                    ^^M
+*** (cannot \read from terminal in nonstop modes)
 
-\c@lstlisting=\count196
-\AtBeginShipoutBox=\box46
-Package hyperref Info: Link coloring ON on input line 11.
-LaTeX Info: Redefining \ref on input line 11.
-LaTeX Info: Redefining \pageref on input line 11.
-LaTeX Info: Redefining \nameref on input line 11.
-(./onMeanStats.out) (./onMeanStats.out)
-\@outlinefile=\write9
-\openout9 = `onMeanStats.out'.
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 17.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 17.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-\c@depthICount=\count197
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
- (./onMeanStats.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
-
-
-Package rerunfilecheck Warning: File `onMeanStats.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `onMeanStats.out':
-(rerunfilecheck)             Before: C5BD91F2AB9A4E842BB2B830B64EEA88;81
-(rerunfilecheck)             After:  8C4C0C1A9A91FD89CD29331AAFE4E9F9;79.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 86.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 29157 strings out of 492982
- 682305 string characters out of 6134895
- 863392 words of memory out of 5000000
- 32182 multiletter control sequences out of 15000+600000
- 12755 words of font info for 48 fonts, out of 8000000 for 9000
+ 29049 strings out of 492982
+ 687382 string characters out of 6134895
+ 848183 words of memory out of 5000000
+ 32116 multiletter control sequences out of 15000+600000
+ 3666 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,98p,739b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmti10.pfb>
-Output written on onMeanStats.pdf (2 pages, 104994 bytes).
-PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 70i,0n,98p,865b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+./onGmeanStats.tex:3:  ==> Fatal error occurred, no output PDF file produced!
