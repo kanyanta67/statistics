@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.10.27)  11 NOV 2018 21:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.11.15)  15 NOV 2018 22:05
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -10,8 +10,8 @@ documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
  tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
 \HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode ximera,charset=utf-8,-css.a
 .b.c.\input  onWeightedStats.tex
-(./onWeightedStats.tex (/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.cls
-Document Class: ximera 2018/10/17 v1.00 Simultaneously write print and online i
+(./onWeightedStats.tex (/home/imulolani/texmf/tex/latex/ximeraLatex/ximera.cls
+Document Class: ximera 2018/10/28 v1.00 Simultaneously write print and online i
 nteractive materials
 
 '::.   .::' ::  :::::     :::::  .:::::::::::::::::::.    ::: 
@@ -188,7 +188,7 @@ File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-tex4ht.def
 
-(/home/mulolanii/texmf/tex/latex/ximeraLatex/pgfsys-tex4ht.def
+(/home/imulolani/texmf/tex/latex/ximeraLatex/pgfsys-tex4ht.def
 File: pgfsys-tex4ht.def 2013/08/06  (rcs-revision 1.25)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-svg.de
@@ -913,7 +913,7 @@ l.21 --- TeX4ht warning --- \usepackage{tex4ht} again? ---
 l.30 --- TeX4ht warning --- if \RequirePackage[tex4ht]{hyperref} or \usepackage
 [tex4ht]{hyperref} was used try instead, repectively, \RequirePackage{hyperref}
  or \usepackage{hyperref} ---
-) (/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.cfg
+) (/home/imulolani/texmf/tex/latex/ximeraLatex/ximera.cfg
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
 version 2017-05-09-09:21
 --------------------------------------
@@ -1146,7 +1146,7 @@ version 2018-02-21-09:31
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
 version 2017-03-30-16:04
 ))
-(/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.4ht
+(/home/imulolani/texmf/tex/latex/ximeraLatex/ximera.4ht
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
 \MT@toks=\toks57
@@ -1169,7 +1169,7 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
 ))
 
-/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.4ht:51: LaTeX Error: Environ
+/home/imulolani/texmf/tex/latex/ximeraLatex/ximera.4ht:51: LaTeX Error: Environ
 ment html undefined in `ximera.cfg'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1184,7 +1184,7 @@ If that doesn't work, type  X <return>  to quit.
 
 \c@identification=\count193
 
-/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.4ht:69: LaTeX Error: Environ
+/home/imulolani/texmf/tex/latex/ximeraLatex/ximera.4ht:69: LaTeX Error: Environ
 ment xarmaBoost undefined in `ximera.cfg'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1197,7 +1197,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.4ht:71: LaTeX Error: Environ
+/home/imulolani/texmf/tex/latex/ximeraLatex/ximera.4ht:71: LaTeX Error: Environ
 ment shuffle undefined in `ximera.cfg'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1211,7 +1211,7 @@ If that doesn't work, type  X <return>  to quit.
 
 \c@imagealt=\count194
 \c@choiceId=\count195
-/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.4ht:234: Illegal parameter n
+/home/imulolani/texmf/tex/latex/ximeraLatex/ximera.4ht:234: Illegal parameter n
 umber in definition of \desmos.
 <to be read again> 
                    c
@@ -1222,7 +1222,7 @@ Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
 
-/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.4ht:266: LaTeX Error: Enviro
+/home/imulolani/texmf/tex/latex/ximeraLatex/ximera.4ht:266: LaTeX Error: Enviro
 nment sagesilent undefined in `ximera.cfg'.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1234,7 +1234,7 @@ l.266 \renewenvironment{sagesilent}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/home/mulolanii/texmf/tex/latex/ximeraLatex/ximera.4ht:272: Too many }'s.
+/home/imulolani/texmf/tex/latex/ximeraLatex/ximera.4ht:272: Too many }'s.
 l.272 }
        
 You've closed more groups than you opened.
@@ -1602,7 +1602,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
 Here is how much of TeX's memory you used:
  34707 strings out of 492983
  766107 string characters out of 6134921
- 1090224 words of memory out of 5000000
+ 1090225 words of memory out of 5000000
  37506 multiletter control sequences out of 15000+600000
  5841 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
